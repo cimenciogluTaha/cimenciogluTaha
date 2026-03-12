@@ -1,8 +1,8 @@
 # Merhaba 👋, ben Taha Çimencioğlu
 
-💻 Bilgisayar Programcılığı öğrencisi, yazılım ve siber güvenlik alanlarında kendimi geliştirmeyi hedefliyorum.  
-🌱 Eğitim sürecinde teorik bilgiler ve uygulamalı çalışmalar ile mesleki deneyim kazanmayı amaçlıyorum.  
-🔭 Uzun vadede nitelikli bir yazılım geliştirici olmayı hedefliyorum.  
+🖥️ Bilgisayar Programcılığı öğrencisi olarak yazılım geliştirme ve siber güvenlik alanlarında kendimi sürekli geliştirmeye odaklanıyorum.  
+🌿 Uygulamalı projeler ve araştırmalar sayesinde hem teorik hem de pratik deneyim kazanmayı amaçlıyorum.  
+🚀 Uzun vadede modern teknolojilerle güvenli ve yenilikçi yazılım çözümleri üretebilen bir geliştirici olmayı hedefliyorum.
 
 ---
 
