@@ -1,16 +1,34 @@
-## Hi there 👋
+# Merhaba 👋 Ben Taha
 
-<!--
-**cimenciogluTaha/cimenciogluTaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bilgisayar Programcılığı öğrencisiyim  
+🚀 Yazılım geliştirme ve siber güvenlik ile ilgileniyorum  
+🌱 Şu anda Web geliştirme öğreniyorum  
+🎯 Hedefim profesyonel bir yazılım geliştirici olmak  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Bildiğim / Öğrendiğim Teknolojiler
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 En Çok Kullandığım Diller
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Bana Ulaş
+
+📍 Istanbul / Turkey
