@@ -25,7 +25,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-tahacimencioglu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahacimencioglu@gmail.com) &nbsp;
 [![Telefon](https://img.shields.io/badge/Telefon-+90%20552%20210%200916-4AB14D?style=for-the-badge&logo=phone&logoColor=white)](tel:+905522100916) &nbsp;
-[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-%C3%A7imencio%C4%9Flu-453283343)) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-%C3%A7imencio%C4%9Flu-453283343) &nbsp;
 [![Konum](https://img.shields.io/badge/Konum-İstanbul,%20Türkiye-FF5733?style=for-the-badge&logo=location-dot&logoColor=white)](#)
 
 ---
