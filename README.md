@@ -35,7 +35,7 @@
 
 ## 🎓 Eğitim
 
-- Ataşehir Adıgüzel Meslek Yüksekokulu – Bilgisayar Programcılığı (2024-2026, DEVAM EDİYOR)  
+- Ataşehir Adıgüzel Meslek Yüksekokulu – Bilgisayar Programcılığı (2024-2026)  
 - Fenerbahçe Anadolu Lisesi – 2020-2024  
 
 ---
